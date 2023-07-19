@@ -99,11 +99,12 @@ The data is then saved in the [UpdateSessionBatchAsync()](https://github.com/Azu
 
 ### Deployment
 
-Clone the VectorSearchAiAssistant repository and change to the `cognitive-search-vector` branch
+Clone the VectorSearchAiAssistant repository and change to the `cognitive-search-vector-v2` branch
 
 ```pwsh
 git clone https://github.com/AzureCosmosDB/VectorSearchAiAssistant
-git checkout cognitive-search-vector
+cd VectorSearchAiAssistant
+git checkout cognitive-search-vector-v2
 ```
 
 #### Standard Deployments
